@@ -19,8 +19,7 @@
         "url": "https://gr.wangdong.cc.cd",
         "desc": "个人导航",
         "data-desc": "全面应用网站导航",
-        "icon": "icons/logos/智捷数码科技.png",
-        "intranet": "http://192.168.31.200"
+        "icon": "icons/logos/智捷数码科技.png"
       },
       {
         "title": "ChatGPT",
