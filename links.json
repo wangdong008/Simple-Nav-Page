@@ -3,6 +3,26 @@
     "section": "常用",
     "items": [
       {
+        "title": "智捷数码科技主页",
+        "url": "https://wd.xhihi.art",
+        "desc": "主页展示",
+        "data-desc": "王冬的个人主页展示，联系方式",
+        "icon": "icons/logos/智捷数码科技.png"
+      },
+      {
+        "title": "智捷数码科技",
+        "url": "https://gr.wangdong.cc.cd",
+        "desc": "个人导航",
+        "data-desc": "全面应用网站导航",
+        "icon": "icons/logos/智捷数码科技.png"
+      },
+      {
+        "title": "小兔文件管理",
+        "url": "https://mf.luoli.love/user/index.php",
+        "desc": "小兔互联",
+        "data-desc": "服务器小兔香港域名"
+      },
+      {
         "title": "哔哩哔哩",
         "url": "https://www.bilibili.com/",
         "desc": "视频、动漫、弹幕",
@@ -15,23 +35,10 @@
         "data-desc": "抖音精选短视频内容"
       },
       {
-        "title": "智捷数码科技",
-        "url": "https://gr.wangdong.cc.cd",
-        "desc": "个人导航",
-        "data-desc": "全面应用网站导航",
-        "icon": "icons/logos/智捷数码科技.png"
-      },
-      {
         "title": "ChatGPT",
         "url": "https://chatgpt.com/",
         "desc": "OpenAI AI助手",
         "data-desc": "OpenAI 旗下 AI 对话助手"
-      },
-      {
-        "title": "Github",
-        "url": "https://github.com/dashboard",
-        "desc": "代码托管、开源",
-        "data-desc": "全球最大代码托管与开源协作平台"
       },
       {
         "title": "Gmail",
@@ -46,23 +53,16 @@
         "data-desc": "全球领先的 CDN 与网络安全服务、大善人"
       },
       {
+        "title": "Github",
+        "url": "https://github.com/dashboard",
+        "desc": "代码托管、开源",
+        "data-desc": "全球最大代码托管与开源协作平台"
+      },
+      {
         "title": "IMGAPI",
         "url": "https://imgapi.cn",
         "desc": "此导航背景API",
         "data-desc": "此导航页背景所依赖的公开免费API"
-      },
-      {
-        "title": "智捷数码科技主页",
-        "url": "https://wd.xhihi.art",
-        "desc": "主页展示",
-        "data-desc": "王冬的个人主页展示，联系方式",
-        "icon": "icons/logos/智捷数码科技.png"
-      },
-      {
-        "title": "小兔文件管理",
-        "url": "https://mf.luoli.love/user/index.php",
-        "desc": "小兔互联",
-        "data-desc": "服务器小兔香港域名"
       }
     ]
   },
