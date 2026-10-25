@@ -63,18 +63,18 @@
         "url": "https://imgapi.cn",
         "desc": "此导航背景API",
         "data-desc": "此导航页背景所依赖的公开免费API"
+      },
+      {
+        "title": "QQ邮箱",
+        "url": "https://mail.qq.com",
+        "desc": "腾讯邮箱",
+        "data-desc": "腾讯 QQ 邮箱服务"
       }
     ]
   },
   {
     "section": "工具",
     "items": [
-      {
-        "title": "QQ邮箱",
-        "url": "https://mail.qq.com",
-        "desc": "腾讯邮箱",
-        "data-desc": "腾讯 QQ 邮箱服务"
-      },
       {
         "title": "QQ音乐",
         "url": "https://y.qq.com",
@@ -552,5 +552,20 @@
         "data-desc": "老牌综合网址导航站，360，日常常用网站入口"
       }
     ]
+  },
+  {
+    "section": "手机工具",
+    "items": [
+      {
+        "title": "在线屏幕检测",
+        "url": "https://screen.bmcx.com/#welcome",
+        "desc": "屏幕检测",
+        "data-desc": "屏幕检测"
+      }
+    ]
+  },
+  {
+    "section": "电脑工具",
+    "items": []
   }
 ]
