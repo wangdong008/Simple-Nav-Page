@@ -59,9 +59,10 @@
         "icon": "icons/logos/智捷数码科技.png"
       },
       {
-        "title": "123",
-        "url": "",
-        "desc": ""
+        "title": "小兔文件管理",
+        "url": "https://mf.luoli.love/user/index.php",
+        "desc": "小兔互联",
+        "data-desc": "服务器小兔香港域名"
       }
     ]
   },
