@@ -7,23 +7,20 @@
         "url": "https://wd.xhihi.art",
         "desc": "主页展示",
         "data-desc": "王冬的个人主页展示，联系方式",
-        "icon": "icons/logos/智捷数码科技.png",
-        "intranet": "http://192.168.31.160"
+        "icon": "icons/logos/智捷数码科技.png"
       },
       {
         "title": "智捷数码科技",
         "url": "https://gr.wangdong.cc.cd",
         "desc": "个人导航",
         "data-desc": "全面应用网站导航",
-        "icon": "icons/logos/智捷数码科技.png",
-        "intranet": "http://192.168.31.67"
+        "icon": "icons/logos/智捷数码科技.png"
       },
       {
         "title": "小兔文件管理",
         "url": "https://mf.luoli.love/user/index.php",
         "desc": "小兔互联",
-        "data-desc": "服务器小兔香港域名FTP账号：  mfbtzj43264867 FTP密码：  YL71t7wvWT7y",
-        "intranet": "http://192.168.31.1"
+        "data-desc": "服务器小兔香港域名FTP账号：  mfbtzj43264867 FTP密码：  YL71t7wvWT7y"
       },
       {
         "title": "哔哩哔哩",
