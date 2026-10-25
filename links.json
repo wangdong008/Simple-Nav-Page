@@ -17,8 +17,10 @@
       {
         "title": "智捷数码科技",
         "url": "https://gr.wangdong.cc.cd",
-        "desc": "国产最强AI",
-        "data-desc": "国产最强 AI 大模型，深度思考与代码辅助"
+        "desc": "个人导航",
+        "data-desc": "全面应用网站导航",
+        "icon": "icons/logos/智捷数码科技.png",
+        "intranet": "http://192.168.31.200"
       },
       {
         "title": "ChatGPT",
