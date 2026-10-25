@@ -22,7 +22,8 @@
         "title": "小兔文件管理",
         "url": "https://mf.luoli.love/user/index.php",
         "desc": "小兔互联",
-        "data-desc": "服务器小兔香港域名FTP账号：  mfbtzj43264867 FTP密码：  YL71t7wvWT7y"
+        "data-desc": "服务器小兔香港域名FTP账号：  mfbtzj43264867 FTP密码：  YL71t7wvWT7y",
+        "intranet": "http://192.168.31.1"
       },
       {
         "title": "哔哩哔哩",
